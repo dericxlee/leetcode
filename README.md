@@ -22,3 +22,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/dericxlee/leetcode/tree/master/0969-number-of-recent-calls) |
+# Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/dericxlee/leetcode/tree/master/0046-permutations) |
+# Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/dericxlee/leetcode/tree/master/0046-permutations) |
