@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0058-length-of-last-word](https://github.com/dericxlee/leetcode/tree/master/0058-length-of-last-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dericxlee/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/dericxlee/leetcode/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dericxlee/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dericxlee/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/dericxlee/leetcode/tree/master/0696-count-binary-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
