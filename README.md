@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dericxlee/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/dericxlee/leetcode/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/dericxlee/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/dericxlee/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dericxlee/leetcode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/dericxlee/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
