@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/dericxlee/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dericxlee/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dericxlee/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/dericxlee/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dericxlee/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dericxlee/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/dericxlee/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dericxlee/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dericxlee/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
