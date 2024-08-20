@@ -6,7 +6,6 @@ class Solution:
 
         for i in range(k, n+1):
             div = int(nums[i-k: i])
-            print(div)
             if div != 0 and num % div == 0:
                 ans+=1
         
