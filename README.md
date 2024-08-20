@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/dericxlee/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/dericxlee/leetcode/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/dericxlee/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-sort-array-by-parity](https://github.com/dericxlee/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dericxlee/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -187,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/dericxlee/leetcode/tree/master/0143-reorder-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dericxlee/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
