@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/dericxlee/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dericxlee/leetcode/tree/master/0696-count-binary-substrings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3019-furthest-point-from-origin](https://github.com/dericxlee/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/dericxlee/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/dericxlee/leetcode/tree/master/0525-contiguous-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3019-furthest-point-from-origin](https://github.com/dericxlee/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## String Matching
 |  |
@@ -201,4 +204,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/dericxlee/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
