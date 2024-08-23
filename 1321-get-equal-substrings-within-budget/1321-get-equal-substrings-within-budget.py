@@ -1,23 +1,20 @@
 class Solution:
     def equalSubstring(self, s: str, t: str, maxCost: int) -> int:
-        idx = list('abcdefghijklmnopqrstuvwxyz')
         ans = 0
-        curr_sum = 0
-        arr = []
+        curr_cost = 0
         left = 0
 
-        for i in range(len(s)):
-            diff = abs(idx.index(s[i]) - idx.index(t[i]))
-            arr.append(diff)
-        
-        for right in range(len(arr)):
-            curr_sum += arr[right]
+        for right in range(len(s)):
+            curr_cost += abs(ord(s[right]) - ord(t[right]))
 
-            while curr_sum > maxCost:
-                curr_sum -= arr[left]
+            while curr_cost > maxCost:
+                curr_cost -= abs(ord(s[left]) - ord(t[left]))
                 left+=1
             
-            ans = max(ans, right - left + 1)
-        
+            if curr_cost <= maxCost:
+                ans = max(ans, right - left + 1)
+            
         return ans
+
+    
 
