@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/dericxlee/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dericxlee/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dericxlee/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dericxlee/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dericxlee/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dericxlee/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Heap (Priority Queue)
 |  |
