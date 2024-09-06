@@ -2,7 +2,6 @@ class Solution:
     def frequencySort(self, s: str) -> str:
         letters = Counter(s)
         heap = []
-        heapq.heapify(heap)
         res = ''
 
         for key, count in letters.items():
