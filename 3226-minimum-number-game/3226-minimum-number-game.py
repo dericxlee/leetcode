@@ -5,9 +5,7 @@ class Solution:
 
         while nums:
             a = heapq.heappop(nums)
-            b = heapq.heappop(nums)
-
-            res.append(b)
+            res.append(heapq.heappop(nums))
             res.append(a)
 
         return res
