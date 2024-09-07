@@ -9,7 +9,4 @@ class Solution:
             if len(heap) > 2:
                 heapq.heappop(heap)
             
-        for _ in range(len(heap)):
-            res*=heapq.heappop(heap)
-        
-        return res
+        return math.prod(heap)
