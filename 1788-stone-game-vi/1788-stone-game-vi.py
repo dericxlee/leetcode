@@ -5,17 +5,17 @@ class Solution:
         aliceTurn = True
 
         for i in range(len(aliceValues)):
-            heapq.heappush(heap, (-(aliceValues[i]+bobValues[i]), -aliceValues[i], -bobValues[i]))
+            heapq.heappush(heap, (-(aliceValues[i]+bobValues[i]), i))
         
         while heap:
-            total, a, b = heapq.heappop(heap)
+            _, i = heapq.heappop(heap)
 
             if aliceTurn:
-                alice-=a
-                aliceTurn = False
+                alice+=aliceValues[i]
             else:
-                alice+=b
-                aliceTurn = True
+                alice-=bobValues[i]
+
+            aliceTurn = not aliceTurn
         
         if alice > 0:
             return 1
@@ -23,7 +23,3 @@ class Solution:
             return -1
         else: 
             return alice
-        
-        
-
-        
