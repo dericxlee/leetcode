@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/dericxlee/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dericxlee/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/dericxlee/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/dericxlee/leetcode/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/dericxlee/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/dericxlee/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -321,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/dericxlee/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/dericxlee/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -386,4 +391,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/dericxlee/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Game Theory
+|  |
+| ------- |
+| [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 <!---LeetCode Topics End-->
