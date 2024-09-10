@@ -9,9 +9,12 @@ class Solution:
 
             dist = x ** 2 + y ** 2
 
-            heapq.heappush(heap, (dist, [x, y]))
+            heapq.heappush(heap, (-dist, [x, y]))
+
+            if len(heap) > k:
+                heapq.heappop(heap)
         
-        for _ in range(k):
+        while heap:
             dist, coord = heapq.heappop(heap)
             res.append(coord)
         
