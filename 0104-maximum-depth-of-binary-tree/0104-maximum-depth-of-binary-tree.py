@@ -9,8 +9,20 @@ class Solution:
         if not root:
             return 0
 
-        l_depth = self.maxDepth(root.left)
-        r_depth = self.maxDepth(root.right)
+        queue = deque([root])
+        res = 0
 
-        return max(l_depth, r_depth) + 1
+        while queue:
+            res += 1
+
+            for _ in range(len(queue)):
+                node = queue.popleft()
+
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+        
+        return res
+
 
