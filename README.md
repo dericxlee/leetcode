@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/dericxlee/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dericxlee/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dericxlee/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/dericxlee/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/dericxlee/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/dericxlee/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/dericxlee/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/dericxlee/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
