@@ -17,12 +17,12 @@ class Solution:
             if len(sumDigits[total]) > 2:
                 heapq.heappop(sumDigits[total])
         
-        for key, value in sumDigits.items():
+        for value in sumDigits.values():
             if len(value) == 2:
                 sum = 0
                 sum += heappop(value)
                 sum += heappop(value)
-                
+
                 res = max(res, sum)
 
         return res
