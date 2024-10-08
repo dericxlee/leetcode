@@ -1,8 +1,9 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        numcheck = Counter(nums)
+        counter = len(nums)
 
-        for n in range(len(nums)+1):
-            if n not in numcheck:
-                return n
+        for i in range(len(nums)):
+            counter += i - nums[i]
+        
+        return counter
         
