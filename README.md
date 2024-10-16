@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/dericxlee/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
+| [1738-maximal-network-rank](https://github.com/dericxlee/leetcode/tree/master/1738-maximal-network-rank) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
