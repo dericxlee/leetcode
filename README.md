@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dericxlee/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dericxlee/leetcode/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/dericxlee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/dericxlee/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dericxlee/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/dericxlee/leetcode/tree/master/0299-bulls-and-cows) |
@@ -289,11 +290,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dericxlee/leetcode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/dericxlee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/dericxlee/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/dericxlee/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/dericxlee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/dericxlee/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dericxlee/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/dericxlee/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/dericxlee/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dericxlee/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/dericxlee/leetcode/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/dericxlee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/dericxlee/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dericxlee/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dericxlee/leetcode/tree/master/0242-valid-anagram) |
