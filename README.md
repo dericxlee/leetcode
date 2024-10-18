@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/dericxlee/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dericxlee/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dericxlee/leetcode/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/dericxlee/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/dericxlee/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/dericxlee/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/dericxlee/leetcode/tree/master/0696-count-binary-substrings) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/dericxlee/leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/dericxlee/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/dericxlee/leetcode/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/dericxlee/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/dericxlee/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dericxlee/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/dericxlee/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/dericxlee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/dericxlee/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0648-replace-words](https://github.com/dericxlee/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/dericxlee/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/dericxlee/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Design
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/dericxlee/leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/dericxlee/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/dericxlee/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/dericxlee/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/dericxlee/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/dericxlee/leetcode/tree/master/0778-reorganize-string) |
