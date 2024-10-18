@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dericxlee/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dericxlee/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3019-furthest-point-from-origin](https://github.com/dericxlee/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dericxlee/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dericxlee/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dericxlee/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dericxlee/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dericxlee/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/dericxlee/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/dericxlee/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/dericxlee/leetcode/tree/master/0692-top-k-frequent-words) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dericxlee/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
 | ------- |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/dericxlee/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/dericxlee/leetcode/tree/master/0778-reorganize-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dericxlee/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3019-furthest-point-from-origin](https://github.com/dericxlee/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## String Matching
 |  |
