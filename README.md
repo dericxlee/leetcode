@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dericxlee/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/dericxlee/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/dericxlee/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/dericxlee/leetcode/tree/master/0258-add-digits) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dericxlee/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dericxlee/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dericxlee/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/dericxlee/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dericxlee/leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/dericxlee/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dericxlee/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dericxlee/leetcode/tree/master/0234-palindrome-linked-list) |
