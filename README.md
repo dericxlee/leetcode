@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dericxlee/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dericxlee/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/dericxlee/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/dericxlee/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/dericxlee/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
+| [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/dericxlee/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dericxlee/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/dericxlee/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Array
 |  |
 | ------- |
