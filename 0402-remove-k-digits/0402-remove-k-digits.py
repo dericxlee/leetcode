@@ -16,10 +16,8 @@ class Solution:
             stack.pop()
             k-=1
         
-        string = ''.join(stack)
+        if not stack:
+            return '0'
         
-        if not string:
-            return "0"
-        
-        return string
+        return ''.join(stack)
             
