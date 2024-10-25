@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/dericxlee/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/dericxlee/leetcode/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/dericxlee/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0932-monotonic-array](https://github.com/dericxlee/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/dericxlee/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dericxlee/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/dericxlee/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
