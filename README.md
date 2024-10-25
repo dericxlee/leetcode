@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/dericxlee/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dericxlee/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/dericxlee/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/dericxlee/leetcode/tree/master/0496-next-greater-element-i) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dericxlee/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/dericxlee/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/dericxlee/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/dericxlee/leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/dericxlee/leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/dericxlee/leetcode/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dericxlee/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/dericxlee/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/dericxlee/leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/dericxlee/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
@@ -669,4 +672,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dericxlee/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/dericxlee/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
