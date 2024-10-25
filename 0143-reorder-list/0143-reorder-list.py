@@ -8,31 +8,33 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        start = head
-        arr = []
-        
-        while start:
-            arr.append(start.val)
-            start = start.next
+        slow = head
+        fast = head
 
-        print(arr)
-
-        left = 0
-        right = len(arr) - 1
-        even = True
-
-        while head:
-            if even == True:
-                head.val = arr[left]
-                left+=1
-                head = head.next
-                even = False
-            else:
-                head.val = arr[right]
-                right-=1
-                head = head.next
-                even = True
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
         
-        return head
+        curr = slow.next
+        prev = None
+        slow.next = None
+
+        while curr:
+            next = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next
         
+        first = head
+        second = prev
+
+        while second:
+            temp1 = first.next
+            temp2 = second.next
+
+            first.next = second
+            second.next = temp1
+
+            first = temp1
+            second = temp2
         
