@@ -10,7 +10,7 @@ class Solution:
             if char in in_stack:
                 continue
 
-            while stack and stack[-1] > char and freq[stack[-1]] != 0:
+            while stack and stack[-1] > char and freq[stack[-1]]:
                 c = stack.pop()
                 in_stack.remove(c)
             
