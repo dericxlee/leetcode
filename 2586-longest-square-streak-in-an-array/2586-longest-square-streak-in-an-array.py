@@ -1,19 +1,18 @@
 class Solution:
     def longestSquareStreak(self, nums: List[int]) -> int:
-        nums.sort()
-        map = {}
-        res = 0
-        
+        num_set = set(nums)
+        max_streak = 0
+
         for num in nums:
-            if num in map:
-                map[num**2] = map[num] + 1
-            else:
-                map[num**2] = 1
+            curr = num
+            streak = 1
+
+            while curr**2 in num_set:
+                streak += 1
+                curr = curr**2
             
-            res = max(res, map[num**2])
-        
-        if res < 2:
-            return -1
-        
-        return res
-         
+            max_streak = max(max_streak, streak)
+            
+        return max_streak if max_streak > 1 else -1
+            
+
