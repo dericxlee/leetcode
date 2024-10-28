@@ -6,17 +6,13 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        queue = deque([(root, float('-inf'), float('inf'))])
-
-        while queue:
-            node, floor, ceiling = queue.popleft()
-
-            if not (floor < node.val < ceiling):
+        def dfs(node, min, max):
+            if not node:
+                return True
+            
+            if not min < node.val < max:
                 return False
             
-            if node.left:
-                queue.append((node.left, floor, node.val))
-            if node.right:
-                queue.append((node.right, node.val, ceiling))
+            return dfs(node.left, min, node.val) and dfs(node.right, node.val, max)
         
-        return True
+        return dfs(root, float("-inf"), float("inf"))
