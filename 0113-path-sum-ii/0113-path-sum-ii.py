@@ -6,21 +6,24 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        if not root:
-            return root
-
-        queue = deque([(root, root.val, [root.val])])
         res = []
+        subset = []
 
-        while queue:
-            node, sum, path = queue.popleft()
+        def dfs(node, sum):
+            if not node:
+                return
 
-            if not node.left and not node.right and sum == targetSum:
-                res.append(path)
+            subset.append(node.val)
+            sum-=node.val
+            
+            if not node.left and not node.right and sum == 0:
+                res.append(subset.copy())
 
-            if node.left:
-                queue.append((node.left, sum+node.left.val, path+[node.left.val]))
-            if node.right:
-                queue.append((node.right, sum+node.right.val, path+[node.right.val]))
+            dfs(node.left, sum)
+            dfs(node.right, sum)
+
+            subset.pop()
         
+        dfs(root, targetSum)
         return res
+
