@@ -6,13 +6,13 @@
 #         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        def mirror(left: TreeNode, right: TreeNode):
+        def dfs(left, right):
             if not left and not right:
                 return True
             
-            if left and right and left.val == right.val:
-                return mirror(left.left, right.right) and mirror(left.right, right.left)
-                
-            return False
+            if not left or not right or left.val != right.val:
+                return False
             
-        return mirror(root.left, root.right) if root else True
+            return dfs(left.left, right.right) and dfs(left.right, right.left)
+        
+        return dfs(root.left, root.right)
