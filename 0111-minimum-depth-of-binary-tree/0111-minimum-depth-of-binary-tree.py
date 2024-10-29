@@ -9,22 +9,10 @@ class Solution:
         if not root:
             return 0
 
-        queue = deque([root])
-        res = 0
+        if not root.left:
+            return 1 + self.minDepth(root.right)
+        
+        if not root.right:
+            return 1 + self.minDepth(root.left)
 
-        while queue:
-            res += 1
-
-            for _ in range(len(queue)):
-                node = queue.popleft()
-
-                if not node.left and not node.right:
-                    return res
-
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-
-
-
+        return 1 + min(self.minDepth(root.left), self.minDepth(root.right))
