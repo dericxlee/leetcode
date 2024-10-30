@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/dericxlee/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/dericxlee/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/dericxlee/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/dericxlee/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dericxlee/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dericxlee/leetcode/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/dericxlee/leetcode/tree/master/0398-random-pick-index) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/dericxlee/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dericxlee/leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/dericxlee/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dericxlee/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dericxlee/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/dericxlee/leetcode/tree/master/0389-find-the-difference) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/dericxlee/leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/dericxlee/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dericxlee/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dericxlee/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dericxlee/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
