@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/dericxlee/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/dericxlee/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dericxlee/leetcode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/dericxlee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/dericxlee/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dericxlee/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dericxlee/leetcode/tree/master/0739-daily-temperatures) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/dericxlee/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/dericxlee/leetcode/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dericxlee/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0445-add-two-numbers-ii](https://github.com/dericxlee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/dericxlee/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/dericxlee/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dericxlee/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/dericxlee/leetcode/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/dericxlee/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/dericxlee/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dericxlee/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
