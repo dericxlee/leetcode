@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/dericxlee/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/dericxlee/leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/dericxlee/leetcode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/dericxlee/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/dericxlee/leetcode/tree/master/0648-replace-words) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/dericxlee/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dericxlee/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/dericxlee/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2512-longest-uploaded-prefix](https://github.com/dericxlee/leetcode/tree/master/2512-longest-uploaded-prefix) |
