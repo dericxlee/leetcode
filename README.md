@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/dericxlee/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0419-battleships-in-a-board](https://github.com/dericxlee/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/dericxlee/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dericxlee/leetcode/tree/master/0496-next-greater-element-i) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/dericxlee/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/dericxlee/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/dericxlee/leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/dericxlee/leetcode/tree/master/0778-reorganize-string) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/dericxlee/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dericxlee/leetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/dericxlee/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/dericxlee/leetcode/tree/master/0506-relative-ranks) |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dericxlee/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dericxlee/leetcode/tree/master/0139-word-break) |
+| [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dericxlee/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dericxlee/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Monotonic Queue
