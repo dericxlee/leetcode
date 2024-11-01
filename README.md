@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/dericxlee/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/dericxlee/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dericxlee/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dericxlee/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dericxlee/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/dericxlee/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dericxlee/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dericxlee/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/dericxlee/leetcode/tree/master/0419-battleships-in-a-board) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dericxlee/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dericxlee/leetcode/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
