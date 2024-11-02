@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/dericxlee/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
+| [1041-available-captures-for-rook](https://github.com/dericxlee/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1138-grumpy-bookstore-owner](https://github.com/dericxlee/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/dericxlee/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/dericxlee/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/dericxlee/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1041-available-captures-for-rook](https://github.com/dericxlee/leetcode/tree/master/1041-available-captures-for-rook) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
@@ -643,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/dericxlee/leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/dericxlee/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/dericxlee/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1041-available-captures-for-rook](https://github.com/dericxlee/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dericxlee/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
