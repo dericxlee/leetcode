@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/dericxlee/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dericxlee/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/dericxlee/leetcode/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/dericxlee/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/dericxlee/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dericxlee/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/dericxlee/leetcode/tree/master/0242-valid-anagram) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/dericxlee/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/dericxlee/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/dericxlee/leetcode/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/dericxlee/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/dericxlee/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/dericxlee/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dericxlee/leetcode/tree/master/0258-add-digits) |
