@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/dericxlee/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/dericxlee/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dericxlee/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/dericxlee/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/dericxlee/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/dericxlee/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/dericxlee/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dericxlee/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/dericxlee/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dericxlee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/dericxlee/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/dericxlee/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/dericxlee/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/dericxlee/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dericxlee/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
