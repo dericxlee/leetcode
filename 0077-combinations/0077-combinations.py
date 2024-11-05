@@ -4,11 +4,13 @@ class Solution:
 
         def backtrack(start, k, array):
             if not k:
-                result.append(array)
+                result.append(array.copy())
                 return
             
-            for i in range(start, n+1):
-                backtrack(i+1, k-1, array+[i])
+            for i in range(start, n-k+2):
+                array.append(i)
+                backtrack(i+1, k-1, array)
+                array.pop()
         
         backtrack(1, k, list())
         return result
