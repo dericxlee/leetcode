@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/dericxlee/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dericxlee/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/dericxlee/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/dericxlee/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dericxlee/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dericxlee/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dericxlee/leetcode/tree/master/0055-jump-game) |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/dericxlee/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dericxlee/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/dericxlee/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/dericxlee/leetcode/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/dericxlee/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/dericxlee/leetcode/tree/master/0216-combination-sum-iii) |
