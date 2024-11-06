@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/dericxlee/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dericxlee/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/dericxlee/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dericxlee/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/dericxlee/leetcode/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/dericxlee/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dericxlee/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/dericxlee/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dericxlee/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/dericxlee/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dericxlee/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dericxlee/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/dericxlee/leetcode/tree/master/0079-word-search) |
 | [0419-battleships-in-a-board](https://github.com/dericxlee/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/dericxlee/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/dericxlee/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -749,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/dericxlee/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dericxlee/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/dericxlee/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/dericxlee/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/dericxlee/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/dericxlee/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/dericxlee/leetcode/tree/master/0257-binary-tree-paths) |
