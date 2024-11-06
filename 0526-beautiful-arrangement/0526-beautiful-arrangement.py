@@ -1,24 +1,23 @@
 class Solution:
     def countArrangement(self, n: int) -> int:
-        result = 0
+        seen = [False]*(n+1)
 
-        def backtrack(index, seen):
-            nonlocal result
+        def backtrack(index):
+            if index > n:
+                return 1
 
-            if len(seen) == n:
-                result+=1
-                return
-            
+            count = 0
+
             for i in range(1, n+1):
-                if i in seen or (i % index != 0 and index % i != 0):
+                if seen[i]:
                     continue
-                
-                seen.add(i)
-                backtrack(index+1, seen)
-                seen.remove(i)
-        
-        backtrack(1, set())
-        return result
-                
 
-            
+                if i % index == 0 or index % i == 0:
+                    seen[i] = True
+                    count += backtrack(index+1)
+                    seen[i] = False
+
+            return count
+        
+        return backtrack(1)
+
