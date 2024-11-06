@@ -2,20 +2,16 @@ class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         result = []
         nums.sort()
-        seen = [False]*(len(nums)+1)
+        seen = [False]*(len(nums))
 
         def backtrack(array):
             if len(array) == len(nums):
                 result.append(array.copy())
                 return
             
-            num_set = set()
-            
             for i in range(len(nums)):
-                if seen[i] or nums[i] in num_set:
+                if seen[i] or (i > 0 and nums[i] == nums[i-1] and not seen[i-1]):
                     continue
-                
-                num_set.add(nums[i])
 
                 seen[i] = True
                 array.append(nums[i])
