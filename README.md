@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/dericxlee/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1137-height-checker](https://github.com/dericxlee/leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/dericxlee/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/dericxlee/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/dericxlee/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1041-available-captures-for-rook](https://github.com/dericxlee/leetcode/tree/master/1041-available-captures-for-rook) |
+| [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
@@ -768,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/dericxlee/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dericxlee/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/dericxlee/leetcode/tree/master/0800-letter-case-permutation) |
+| [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 ## Ordered Set
 |  |
 | ------- |
