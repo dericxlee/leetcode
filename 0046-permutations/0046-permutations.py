@@ -8,14 +8,12 @@ class Solution:
                 result.append(array.copy())
             
             for i in range(len(nums)):
-                if used[i]:
-                    continue
-
-                used[i] = True
-                array.append(nums[i])
-                backtrack(array)
-                array.pop()
-                used[i] = False
+                if not used[i]:
+                    used[i] = True
+                    array.append(nums[i])
+                    backtrack(array)
+                    array.pop()
+                    used[i] = False
         
         backtrack([])
         return result
