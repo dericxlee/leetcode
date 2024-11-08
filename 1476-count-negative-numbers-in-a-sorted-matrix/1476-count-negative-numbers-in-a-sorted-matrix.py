@@ -6,6 +6,7 @@ class Solution:
         for i in range(row):
             for j in range(col):
                 if grid[i][j] < 0:
-                    count +=1 
+                    count += col - j
+                    break
         
         return count
