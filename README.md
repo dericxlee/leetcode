@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/dericxlee/leetcode/tree/master/1386-shift-2d-grid) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/dericxlee/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-matrix-cells-in-distance-order](https://github.com/dericxlee/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1386-shift-2d-grid](https://github.com/dericxlee/leetcode/tree/master/1386-shift-2d-grid) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/dericxlee/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2512-longest-uploaded-prefix](https://github.com/dericxlee/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dericxlee/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
