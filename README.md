@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/dericxlee/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/dericxlee/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/dericxlee/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/dericxlee/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Array
 |  |
 | ------- |
