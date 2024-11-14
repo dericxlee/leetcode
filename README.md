@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dericxlee/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dericxlee/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dericxlee/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dericxlee/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/dericxlee/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/dericxlee/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dericxlee/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dericxlee/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dericxlee/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dericxlee/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/dericxlee/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/dericxlee/leetcode/tree/master/0212-word-search-ii) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/dericxlee/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dericxlee/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/dericxlee/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dericxlee/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/dericxlee/leetcode/tree/master/0268-missing-number) |
