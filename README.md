@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dericxlee/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dericxlee/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/dericxlee/leetcode/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/dericxlee/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/dericxlee/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/dericxlee/leetcode/tree/master/0437-path-sum-iii) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/dericxlee/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/dericxlee/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/dericxlee/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/dericxlee/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/dericxlee/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/dericxlee/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/dericxlee/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/dericxlee/leetcode/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/dericxlee/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/dericxlee/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/dericxlee/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -445,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/dericxlee/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dericxlee/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/dericxlee/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/dericxlee/leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/dericxlee/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dericxlee/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -788,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dericxlee/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dericxlee/leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/dericxlee/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/dericxlee/leetcode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/dericxlee/leetcode/tree/master/0494-target-sum) |
@@ -902,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/dericxlee/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/dericxlee/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dericxlee/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/dericxlee/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
@@ -914,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/dericxlee/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dericxlee/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -934,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dericxlee/leetcode/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/dericxlee/leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
