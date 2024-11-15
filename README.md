@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/dericxlee/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/dericxlee/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dericxlee/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dericxlee/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [0933-increasing-order-search-tree](https://github.com/dericxlee/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dericxlee/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dericxlee/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/dericxlee/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dericxlee/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dericxlee/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/dericxlee/leetcode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/dericxlee/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -866,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/dericxlee/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/dericxlee/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dericxlee/leetcode/tree/master/0547-number-of-provinces) |
+| [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2512-longest-uploaded-prefix](https://github.com/dericxlee/leetcode/tree/master/2512-longest-uploaded-prefix) |
@@ -900,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/dericxlee/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
+| [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1738-maximal-network-rank](https://github.com/dericxlee/leetcode/tree/master/1738-maximal-network-rank) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
