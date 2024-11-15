@@ -9,15 +9,11 @@ class Solution:
             graph[b].add(a)
         
         def dfs(node):
-            if not graph[node]:
-                return
-            
             visited.add(node)
 
             for child in graph[node]:
-                if child in restricted or child in visited:
-                    continue
-                dfs(child)
+                if child not in restricted and child not in visited:
+                    dfs(child)
         
         dfs(0)
         return len(visited)
