@@ -1,40 +1,21 @@
 class Solution:
     def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
-        count = 0
         row, col = len(matrix), len(matrix[0])
-        seen = defaultdict(int)
+        memo = defaultdict(int)
 
-        def dfs(i, j, path):
-            nonlocal count
-            count = max(count, path)
+        def dfs(i, j):
+            if (i, j) in memo:
+                return memo[(i, j)]
+            
+            count = 1
 
-            if seen[(i, j)] > path:
-                return
-            
-            seen[(i, j)] = path
+            directions = [(i + 1, j), (i - 1, j), (i, j + 1), (i, j - 1)]
 
-            # left
-            if j - 1 >= 0 and matrix[i][j-1] > matrix[i][j]:
-                dfs(i, j-1, path+1)
+            for x, y in directions:
+                if x >= 0 and y >= 0 and x < row and y < col and matrix[x][y] > matrix[i][j]:
+                    count = max(count, 1 + dfs(x, y)) 
             
-            # right
-            if j + 1 < col and matrix[i][j+1] > matrix[i][j]:
-                dfs(i, j+1, path+1)
-            
-            # up
-            if i - 1 >= 0 and matrix[i-1][j] > matrix[i][j]:
-                dfs(i-1, j, path+1)
-            
-            # down
-            if i + 1 < row and matrix[i+1][j] > matrix[i][j]:
-                dfs(i+1, j, path+1)
+            memo[(i, j)] = count
+            return count
         
-
-        for i in range(row):
-            for j in range(col):
-                dfs(i, j, 1)
-
-        return count
-
-
-            
+        return max(dfs(i, j) for i in range(row) for j in range(col))
