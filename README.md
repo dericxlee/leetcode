@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dericxlee/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dericxlee/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/dericxlee/leetcode/tree/master/2580-circular-sentence) |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dericxlee/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dericxlee/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dericxlee/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dericxlee/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/dericxlee/leetcode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/dericxlee/leetcode/tree/master/0837-most-common-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dericxlee/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3019-furthest-point-from-origin](https://github.com/dericxlee/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## String Matching
