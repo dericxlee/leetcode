@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/dericxlee/leetcode/tree/master/1386-shift-2d-grid) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/dericxlee/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1036-rotting-oranges](https://github.com/dericxlee/leetcode/tree/master/1036-rotting-oranges) |
 | [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/dericxlee/leetcode/tree/master/0837-most-common-word) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dericxlee/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dericxlee/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/dericxlee/leetcode/tree/master/1137-height-checker) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
@@ -926,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
 | [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1738-maximal-network-rank](https://github.com/dericxlee/leetcode/tree/master/1738-maximal-network-rank) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
