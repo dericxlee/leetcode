@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/dericxlee/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dericxlee/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dericxlee/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/dericxlee/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dericxlee/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dericxlee/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/dericxlee/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dericxlee/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/dericxlee/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dericxlee/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
