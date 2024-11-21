@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/dericxlee/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/dericxlee/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dericxlee/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/dericxlee/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/dericxlee/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dericxlee/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dericxlee/leetcode/tree/master/0047-permutations-ii) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/dericxlee/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dericxlee/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/dericxlee/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/dericxlee/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/dericxlee/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dericxlee/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dericxlee/leetcode/tree/master/0133-clone-graph) |
