@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/dericxlee/leetcode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/dericxlee/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/dericxlee/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/dericxlee/leetcode/tree/master/1036-rotting-oranges) |
 | [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -890,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/dericxlee/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dericxlee/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/dericxlee/leetcode/tree/master/0800-letter-case-permutation) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/dericxlee/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dericxlee/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Ordered Set
