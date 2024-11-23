@@ -1,6 +1,7 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
-        dp = [[0, 0]]*len(nums)
+        n = len(nums)
+        dp = [[0, 0] for _ in range(n)]
         dp[0] = [nums[0], nums[0]]
         result = abs(nums[0])
 
