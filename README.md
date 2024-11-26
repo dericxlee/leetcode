@@ -959,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1738-maximal-network-rank](https://github.com/dericxlee/leetcode/tree/master/1738-maximal-network-rank) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [3189-find-champion-ii](https://github.com/dericxlee/leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
