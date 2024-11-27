@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/dericxlee/leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/dericxlee/leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/dericxlee/leetcode/tree/master/0837-most-common-word) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/dericxlee/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dericxlee/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
