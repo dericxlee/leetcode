@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/dericxlee/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dericxlee/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dericxlee/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dericxlee/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/dericxlee/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/dericxlee/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dericxlee/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/dericxlee/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/dericxlee/leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/dericxlee/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/dericxlee/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dericxlee/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/dericxlee/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dericxlee/leetcode/tree/master/0258-add-digits) |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/dericxlee/leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dericxlee/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dericxlee/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dericxlee/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dericxlee/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dericxlee/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dericxlee/leetcode/tree/master/0283-move-zeroes) |
