@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dericxlee/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/dericxlee/leetcode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/dericxlee/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0933-increasing-order-search-tree](https://github.com/dericxlee/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dericxlee/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/dericxlee/leetcode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/dericxlee/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/dericxlee/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dericxlee/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/dericxlee/leetcode/tree/master/1036-rotting-oranges) |
 | [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -956,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/dericxlee/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dericxlee/leetcode/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/dericxlee/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
 | [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -970,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/dericxlee/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/dericxlee/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/dericxlee/leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
