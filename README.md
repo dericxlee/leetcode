@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dericxlee/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dericxlee/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/dericxlee/leetcode/tree/master/3226-minimum-number-game) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/dericxlee/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dericxlee/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dericxlee/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dericxlee/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dericxlee/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/dericxlee/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Two Pointers
 |  |
 | ------- |
