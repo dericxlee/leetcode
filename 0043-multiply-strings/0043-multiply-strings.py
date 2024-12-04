@@ -5,7 +5,7 @@ class Solution:
 
             for char in str:
                 result *= 10
-                result += (ord(char) - 48)
+                result += (ord(char) - ord('0'))
             
             return result
 
