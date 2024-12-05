@@ -1,13 +1,17 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
-        checked = set()
-        result = 1
-        
+        nums.sort()
+        current = 1
+
         for num in nums:
-            if num > 0:
-                checked.add(num)
+            if num < current:
+                continue
+
+            if num > current:
+                return current
             
-            while result in checked:
-                result += 1
+            current += 1
         
-        return result
+        return current
+            
+            
