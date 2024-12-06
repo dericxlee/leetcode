@@ -1,13 +1,20 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
+        if len(triangle) == 1:
+            return triangle[0][0]
+            
         n = len(triangle)
-        dp = [[sys.maxsize]*(n+1) for _ in range(n)]
+        dp = [[sys.maxsize]*(n) for _ in range(n)]
         dp[0][0] = triangle[0][0]
+        result = sys.maxsize
 
         for i in range(1, n):
             for j in range(len(triangle[i])):
-                dp[i][j] = triangle[i][j] + min(dp[i-1][j], dp[i-1][j-1]) if i > 0 else triangle[i][j] + dp[i-1][j]
+                dp[i][j] = triangle[i][j] + min(dp[i-1][j], dp[i-1][j-1])
 
-        return min(dp[-1])
+                if i == n - 1:
+                    result = min(result, dp[i][j])
+
+        return result
 
 
