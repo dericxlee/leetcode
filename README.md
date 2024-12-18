@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/dericxlee/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dericxlee/leetcode/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/dericxlee/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dericxlee/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dericxlee/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/dericxlee/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dericxlee/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/dericxlee/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dericxlee/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -1092,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/dericxlee/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dericxlee/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dericxlee/leetcode/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dericxlee/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Combinatorics
 |  |
 | ------- |
