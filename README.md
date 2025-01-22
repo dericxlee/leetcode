@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1788-stone-game-vi](https://github.com/dericxlee/leetcode/tree/master/1788-stone-game-vi) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dericxlee/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1876-map-of-highest-peak](https://github.com/dericxlee/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dericxlee/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/dericxlee/leetcode/tree/master/2145-grid-game) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dericxlee/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1876-map-of-highest-peak](https://github.com/dericxlee/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/dericxlee/leetcode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dericxlee/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dericxlee/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1275-validate-binary-tree-nodes](https://github.com/dericxlee/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dericxlee/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/dericxlee/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dericxlee/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dericxlee/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
