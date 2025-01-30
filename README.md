@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/dericxlee/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/dericxlee/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dericxlee/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/dericxlee/leetcode/tree/master/1677-matrix-diagonal-sum) |
