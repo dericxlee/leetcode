@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dericxlee/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dericxlee/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/dericxlee/leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1894-merge-strings-alternately](https://github.com/dericxlee/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2232-adding-spaces-to-a-string](https://github.com/dericxlee/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/dericxlee/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dericxlee/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dericxlee/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/dericxlee/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/dericxlee/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dericxlee/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dericxlee/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
