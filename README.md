@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/dericxlee/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dericxlee/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/dericxlee/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/dericxlee/leetcode/tree/master/0402-remove-k-digits) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dericxlee/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/dericxlee/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/dericxlee/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/dericxlee/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dericxlee/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dericxlee/leetcode/tree/master/0567-permutation-in-string) |
@@ -934,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/dericxlee/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/dericxlee/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/dericxlee/leetcode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/dericxlee/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/dericxlee/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dericxlee/leetcode/tree/master/0526-beautiful-arrangement) |
