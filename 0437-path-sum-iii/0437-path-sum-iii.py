@@ -9,20 +9,27 @@ class Solution:
         prefix = defaultdict(int)
         prefix[0] += 1
 
-        def dfs(node, sum):
+        def dfs(node, total):
             if not node:
                 return 0
-            
-            sum += node.val
-            count = prefix[sum - targetSum]
-            prefix[sum] += 1
 
-            count += dfs(node.left, sum)
-            count += dfs(node.right, sum)
+            total += node.val
+            result = prefix[total - targetSum]
 
-            prefix[sum] -= 1
+            prefix[total] += 1
 
-            return count
+            result += dfs(node.left, total)
+            result += dfs(node.right, total)
+
+            prefix[total] -= 1
+
+            return result
         
         return dfs(root, 0)
+
+
+
+            
+
+            
 
