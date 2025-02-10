@@ -1,31 +1,27 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        row = len(isConnected)
-        graph = {i: [] for i in range(row)}
+        n = len(isConnected)
         visited = set()
         provinces = 0
+        queue = deque()
 
-        for n in range(row):
-            for m in range(row):
-                if isConnected[n][m]:
-                    graph[n].append(m)
-
-        for i in range(row):
+        for i in range(n):
             if i not in visited:
+                visited.add(i)
+                queue.append(i)
                 provinces += 1
-                queue = deque([i])
 
                 while queue:
-                    node = queue.popleft()
-                    visited.add(node)
-
-                    for neighbor in graph[node]:
-                        if neighbor not in visited:
-                            queue.append(neighbor)
+                    city = queue.popleft()
+                    
+                    for j in range(n):
+                        if isConnected[city][j] == 1 and j not in visited:
+                            visited.add(j)
+                            queue.append(j)
 
         return provinces
-                     
-                    
+
+
 
 
 
