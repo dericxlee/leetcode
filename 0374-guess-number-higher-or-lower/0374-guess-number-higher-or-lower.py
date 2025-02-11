@@ -6,16 +6,15 @@
 # def guess(num: int) -> int:
 
 class Solution:
+    def binarySearch(self, start, end):
+        mid = (start + end) // 2
+
+        if guess(mid) == 0:
+            return mid
+        elif guess(mid) == 1:
+            return self.binarySearch(mid + 1, end)
+        else:
+            return self.binarySearch(start, mid - 1)
+
     def guessNumber(self, n: int) -> int:
-        start = 0
-
-        while start <= n:
-            mid = (start + n) // 2
-
-            if not guess(mid):
-                return mid
-            elif guess(mid) == 1:
-                start = mid + 1
-            else:
-                n = mid - 1
-        
+        return self.binarySearch(0, n)
