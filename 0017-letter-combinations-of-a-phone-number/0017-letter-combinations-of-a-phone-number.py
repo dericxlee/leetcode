@@ -18,13 +18,15 @@ class Solution:
 
         def backtrack(i, combo):
             if i >= len(digits):
-                result.append(combo)
+                result.append("".join(combo))
                 return
             
             for char in phone[digits[i]]:
-                backtrack(i+1, combo+char)
+                combo.append(char)
+                backtrack(i+1, combo)
+                combo.pop()
         
-        backtrack(0, "")
+        backtrack(0, [])
         return result
             
 
