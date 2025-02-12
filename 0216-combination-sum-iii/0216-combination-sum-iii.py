@@ -5,23 +5,18 @@ class Solution:
         
         result = []
         
-        def backtrack(i, target, array):
+        def backtrack(start, target, array):
             if len(array) == k and target == 0:
                 result.append(array.copy())
                 return
+
+            for i in range(start, 10):
+                if target < i:
+                    break
             
-            if len(array) == k or target <= 0 or i > 9:
-                return
-
-            backtrack(i+1, target, array)
-            
-            target -= i
-            array.append(i)
-
-            backtrack(i+1, target, array)
-
-            target += i
-            array.pop()
+                array.append(i)
+                backtrack(i + 1, target - i, array)
+                array.pop()
         
         backtrack(1, n, [])
         return result
