@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/dericxlee/leetcode/tree/master/0377-combination-sum-iv) |
 | [0419-battleships-in-a-board](https://github.com/dericxlee/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dericxlee/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/dericxlee/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/dericxlee/leetcode/tree/master/0463-island-perimeter) |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/dericxlee/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/dericxlee/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dericxlee/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/dericxlee/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
@@ -723,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/dericxlee/leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/dericxlee/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/dericxlee/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dericxlee/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/dericxlee/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/dericxlee/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/dericxlee/leetcode/tree/master/0621-task-scheduler) |
