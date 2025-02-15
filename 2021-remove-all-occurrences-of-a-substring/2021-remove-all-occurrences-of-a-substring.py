@@ -7,6 +7,6 @@ class Solution:
             stack.append(char)
 
             if len(stack) >= n and "".join(stack[-n:]) == part:
-                stack = stack[:-n]
+                del stack[-n:]
         
         return "".join(stack)
