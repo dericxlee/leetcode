@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/dericxlee/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3019-furthest-point-from-origin](https://github.com/dericxlee/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dericxlee/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3447-clear-digits](https://github.com/dericxlee/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/dericxlee/leetcode/tree/master/3451-string-compression-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dericxlee/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dericxlee/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dericxlee/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dericxlee/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3447-clear-digits](https://github.com/dericxlee/leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -956,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dericxlee/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dericxlee/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/dericxlee/leetcode/tree/master/3226-minimum-number-game) |
+| [3447-clear-digits](https://github.com/dericxlee/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dericxlee/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
