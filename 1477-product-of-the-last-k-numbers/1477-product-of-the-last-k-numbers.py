@@ -3,23 +3,22 @@ class ProductOfNumbers:
     def __init__(self):
         self.prefix = [1]
         self.zero = -1
-        self.index = 1
 
     def add(self, num: int) -> None:
         if num:
             self.prefix.append(self.prefix[-1]*num)
         else:
-            self.prefix.append(1)
-            self.zero = self.index
-
-        self.index += 1
+            self.prefix = [1]
+            self.zero = len(self.prefix) - 1
         
 
     def getProduct(self, k: int) -> int:
-        if self.index - k <= self.zero:
+        n = len(self.prefix)
+
+        if k >= len(self.prefix):
             return 0
         else:
-            return self.prefix[self.index - 1] // self.prefix[self.index- k - 1]
+            return self.prefix[n-1] // self.prefix[n-1-k]
         
 
 
