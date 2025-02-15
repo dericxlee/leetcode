@@ -1,12 +1,12 @@
 class Solution:
     def removeOccurrences(self, s: str, part: str) -> str:
         n = len(part)
-        stack = ""
+        stack = []
 
         for char in s:
-            stack += char
+            stack.append(char)
 
-            if stack[len(stack) - n:] == part:
+            if "".join(stack[len(stack) - n:]) == part:
                 stack = stack[:len(stack) - n]
         
-        return stack
+        return "".join(stack)
