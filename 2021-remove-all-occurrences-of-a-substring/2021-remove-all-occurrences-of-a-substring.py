@@ -6,7 +6,7 @@ class Solution:
         for char in s:
             stack.append(char)
 
-            if "".join(stack[len(stack) - n:]) == part:
-                stack = stack[:len(stack) - n]
+            if len(stack) >= n and "".join(stack[-n:]) == part:
+                stack = stack[:-n]
         
         return "".join(stack)
