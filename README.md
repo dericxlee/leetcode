@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/dericxlee/leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/dericxlee/leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/dericxlee/leetcode/tree/master/0837-most-common-word) |
+| [1160-letter-tile-possibilities](https://github.com/dericxlee/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dericxlee/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/dericxlee/leetcode/tree/master/0837-most-common-word) |
 | [1039-find-the-town-judge](https://github.com/dericxlee/leetcode/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dericxlee/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/dericxlee/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -781,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/dericxlee/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/dericxlee/leetcode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/dericxlee/leetcode/tree/master/0837-most-common-word) |
+| [1160-letter-tile-possibilities](https://github.com/dericxlee/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dericxlee/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dericxlee/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -1061,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/dericxlee/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/dericxlee/leetcode/tree/master/0800-letter-case-permutation) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dericxlee/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1160-letter-tile-possibilities](https://github.com/dericxlee/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dericxlee/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dericxlee/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
