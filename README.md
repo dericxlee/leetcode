@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/dericxlee/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dericxlee/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/dericxlee/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/dericxlee/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dericxlee/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/dericxlee/leetcode/tree/master/2145-grid-game) |
