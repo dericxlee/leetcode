@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-determine-if-string-halves-are-alike](https://github.com/dericxlee/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/dericxlee/leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/dericxlee/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dericxlee/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dericxlee/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/dericxlee/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dericxlee/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dericxlee/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dericxlee/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dericxlee/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -779,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/dericxlee/leetcode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/dericxlee/leetcode/tree/master/0837-most-common-word) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dericxlee/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dericxlee/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dericxlee/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
