@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dericxlee/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dericxlee/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/dericxlee/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/dericxlee/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dericxlee/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/dericxlee/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dericxlee/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2107-find-unique-binary-string](https://github.com/dericxlee/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/dericxlee/leetcode/tree/master/2145-grid-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dericxlee/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/dericxlee/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dericxlee/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dericxlee/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2107-find-unique-binary-string](https://github.com/dericxlee/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dericxlee/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dericxlee/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dericxlee/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -1068,6 +1071,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/dericxlee/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dericxlee/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/dericxlee/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dericxlee/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Ordered Set
 |  |
