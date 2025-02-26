@@ -5,8 +5,10 @@ class Solution:
         result = abs(nums[0])
 
         for i in range(1, len(nums)):
-            high = max(nums[i] + high, nums[i])
-            low = min(nums[i] + low, nums[i])
+            high = max(high + nums[i], nums[i])
+            low = min(low + nums[i], nums[i])
+
             result = max(result, abs(high), abs(low))
         
         return result
+
