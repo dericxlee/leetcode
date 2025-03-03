@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2445-reachable-nodes-with-restrictions](https://github.com/dericxlee/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dericxlee/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dericxlee/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2551-apply-operations-to-an-array](https://github.com/dericxlee/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dericxlee/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dericxlee/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dericxlee/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dericxlee/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dericxlee/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/dericxlee/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/dericxlee/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dericxlee/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Breadth-First Search
@@ -970,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dericxlee/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/dericxlee/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dericxlee/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2551-apply-operations-to-an-array](https://github.com/dericxlee/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dericxlee/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dericxlee/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
