@@ -1,37 +1,26 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        row = len(board)
-        col = len(board[0])
+        m = len(board)
+        n = len(board[0])
+        memo = set()
 
-        def backtrack(m, n, index, memo):
-            if len(memo) == len(word):
+        def backtrack(idx, x, y):
+            if idx == len(word):
                 return True
-
-            if m < 0 or n < 0 or m >= row or n >= col or board[m][n] != word[index] or (m, n) in memo:
-                return False
-
-            memo.add((m, n))
             
-            directions = (
-                backtrack(m+1, n, index+1, memo) or
-                backtrack(m-1, n, index+1, memo) or
-                backtrack(m, n+1, index+1, memo) or
-                backtrack(m, n-1, index+1, memo)
-            )
+            for dx, dy in [(x + 1, y), (x - 1, y), (x, y + 1), (x, y - 1)]:
+                if 0 <= dx < m and 0 <= dy < n and (dx, dy) not in memo and board[dx][dy] == word[idx]:
+                    memo.add((dx, dy))
+                    if backtrack(idx + 1, dx, dy):
+                        return True
+                    memo.remove((dx, dy))
+        
+        for i in range(m):
+            for j in range(n):
+                if board[i][j] == word[0]:
+                    memo.add((i, j))
+                    if backtrack(1, i, j):
+                        return True
+                    memo.remove((i, j))
 
-            memo.remove((m, n))
-            return directions
-        
-        for i in range(row):
-            for j in range(col):
-                if backtrack(i, j, 0, set()):
-                    return True
-        
         return False
-        
-
-            
-
-            
-
-
