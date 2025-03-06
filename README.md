@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dericxlee/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dericxlee/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/dericxlee/leetcode/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/dericxlee/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dericxlee/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dericxlee/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dericxlee/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dericxlee/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dericxlee/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dericxlee/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3227-find-missing-and-repeated-values](https://github.com/dericxlee/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dericxlee/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2585-delete-greatest-value-in-each-row](https://github.com/dericxlee/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dericxlee/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dericxlee/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/dericxlee/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dericxlee/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Two Pointers
 |  |
@@ -741,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dericxlee/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dericxlee/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dericxlee/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/dericxlee/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
