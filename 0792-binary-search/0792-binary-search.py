@@ -1,17 +1,22 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        def solve(start, end):
-            if start > end:
-                return -1
-            
-            mid = (start + end) // 2
+        left, right = 0, len(nums) - 1
 
-            if nums[mid] == target:
+        while left <= right:
+            mid = (left + right) // 2
+
+            if target == nums[mid]:
                 return mid
+            elif target < nums[mid]:
+                right = mid - 1
+            else:
+                left = mid + 1
+        
+        return -1
+
+
             
-            if nums[mid] > target:
-                return solve(start, mid - 1)
-            if nums[mid] < target:
-                return solve(mid + 1, end)
-            
-        return solve(0, len(nums) - 1)
+
+
+
+
