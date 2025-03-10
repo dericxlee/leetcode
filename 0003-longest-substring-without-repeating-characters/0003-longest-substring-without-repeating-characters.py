@@ -3,18 +3,17 @@ class Solution:
         if len(s) < 2:
             return len(s)
         
-        freq = defaultdict(int)
+        idx = dict()
         l, result = 0, 0
 
         for r in range(len(s)):
             char = s[r]
-            freq[char] += 1
-
-            while freq[char] > 1:
-                tail = s[l]
-                freq[tail] -= 1
-                l += 1
             
-            result = max(result, r - l  + 1)
+            if char in idx and idx[char] >= l:
+                l = idx[char] + 1
+
+            idx[char] = r
+            
+            result = max(result, r - l + 1)
 
         return result
