@@ -1,23 +1,26 @@
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
-        counter = {}
-        match = 'abc'
-        left = 0
-        ans = 0
+        freq = defaultdict(int)
+        seen = set()
+
+        l, result = 0, 0
         n = len(s)
 
-        for right in range(n):
-            counter[s[right]] = counter.get(s[right], 0) + 1
+        for r in range(n):
+            char = s[r]
+            freq[char] += 1
+            seen.add(char)
 
-            while len(counter) == len(match):
-                ans += n - right
+            while len(seen) == 3:
+                result += n - r
 
-                counter[s[left]] -=1
-
-                if counter[s[left]] == 0:
-                    del counter[s[left]]
+                tail = s[l]
+                freq[tail] -= 1
                 
-                left+=1
-    
-        return ans
+                if freq[tail] == 0:
+                    seen.remove(tail)
+                
+                l += 1
+            
+        return result
 
