@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dericxlee/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dericxlee/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dericxlee/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dericxlee/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dericxlee/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -723,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dericxlee/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dericxlee/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dericxlee/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dericxlee/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dericxlee/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -907,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dericxlee/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dericxlee/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dericxlee/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dericxlee/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
