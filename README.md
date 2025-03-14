@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1138-grumpy-bookstore-owner](https://github.com/dericxlee/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dericxlee/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1331-path-with-maximum-gold](https://github.com/dericxlee/leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/dericxlee/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dericxlee/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/dericxlee/leetcode/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dericxlee/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -847,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/dericxlee/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/dericxlee/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/dericxlee/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dericxlee/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dericxlee/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dericxlee/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
