@@ -9,9 +9,11 @@ class Solution:
             heapq.heappush(heap, (-value, -key))
 
         for _ in range(x):
-            if heap:
-                value, key = heapq.heappop(heap)
-                add += value*key
+            if not heap:
+                break
+
+            value, key = heapq.heappop(heap)
+            add += value*key
         
         result.append(add)
 
@@ -29,9 +31,11 @@ class Solution:
                 heapq.heappush(heap, (-value, -key))
 
             for _ in range(x):
-                if heap:
-                    value, key = heapq.heappop(heap)
-                    add += value*key
+                if not heap:
+                    break
+
+                value, key = heapq.heappop(heap)
+                add += value*key
 
             result.append(add)
         
