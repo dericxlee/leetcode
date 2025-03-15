@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dericxlee/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/dericxlee/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -621,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/dericxlee/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/dericxlee/leetcode/tree/master/2145-grid-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dericxlee/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3644-minimum-positive-sum-subarray](https://github.com/dericxlee/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -928,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dericxlee/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/dericxlee/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
