@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dericxlee/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dericxlee/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-the-number-of-beautiful-subsets](https://github.com/dericxlee/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dericxlee/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/dericxlee/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -925,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dericxlee/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dericxlee/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -961,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dericxlee/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/dericxlee/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dericxlee/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
 |  |
 | ------- |
