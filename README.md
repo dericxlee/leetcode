@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/dericxlee/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dericxlee/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dericxlee/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/dericxlee/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dericxlee/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dericxlee/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dericxlee/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -845,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dericxlee/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/dericxlee/leetcode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/dericxlee/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dericxlee/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dericxlee/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Search
@@ -1212,10 +1214,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/dericxlee/leetcode/tree/master/1508-longest-happy-prefix) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dericxlee/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Hash Function
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/dericxlee/leetcode/tree/master/1508-longest-happy-prefix) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dericxlee/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Enumeration
 |  |
