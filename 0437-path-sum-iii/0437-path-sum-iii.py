@@ -7,7 +7,7 @@
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
         prefix = defaultdict(int)
-        prefix[0] += 1
+        prefix[0] = 1
 
         def dfs(node, total):
             if not node:
@@ -17,19 +17,12 @@ class Solution:
             result = prefix[total - targetSum]
 
             prefix[total] += 1
-
             result += dfs(node.left, total)
             result += dfs(node.right, total)
-
             prefix[total] -= 1
 
             return result
         
         return dfs(root, 0)
-
-
-
-            
-
             
 
