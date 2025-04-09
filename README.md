@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dericxlee/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dericxlee/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dericxlee/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dericxlee/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dericxlee/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -782,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/dericxlee/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/dericxlee/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dericxlee/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dericxlee/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dericxlee/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
