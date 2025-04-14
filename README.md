@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dericxlee/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dericxlee/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dericxlee/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1656-count-good-triplets](https://github.com/dericxlee/leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/dericxlee/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dericxlee/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dericxlee/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -1247,6 +1248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/dericxlee/leetcode/tree/master/1656-count-good-triplets) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dericxlee/leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/dericxlee/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Memoization
