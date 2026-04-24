@@ -928,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/dericxlee/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dericxlee/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/dericxlee/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/dericxlee/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dericxlee/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/dericxlee/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -948,6 +949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dericxlee/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/dericxlee/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/dericxlee/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dericxlee/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/dericxlee/leetcode/tree/master/0231-power-of-two) |
