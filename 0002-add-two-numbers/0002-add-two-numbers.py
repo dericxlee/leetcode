@@ -9,39 +9,24 @@ class Solution:
         res = head
         carry = 0
 
-        while l1 and l2:
-            head.next = ListNode()
-            head = head.next
-            sum = l1.val + l2.val + carry
-            carry = sum // 10
+        while l1 or l2 or carry:
+            total = carry
 
-            head.val = sum % 10
-            l1 = l1.next
-            l2 = l2.next
-        
-        while l1:
+            if l1:
+                total += l1.val
+                l1 = l1.next
+            
+            if l2:
+                total += l2.val
+                l2 = l2.next
+            
             head.next = ListNode()
+            head.next.val = total % 10
             head = head.next
-            sum = l1.val + carry
-            carry = sum // 10
+            carry = total // 10
 
-            head.val = sum % 10
-            l1 = l1.next
-        
-        while l2:
-            head.next = ListNode()
-            head = head.next
-            sum = l2.val + carry
-            carry = sum // 10
-
-            head.val = sum % 10
-            l2 = l2.next
-        
-        if carry != 0:
-            head.next = ListNode()
-            head.next.val = carry
-        
         return res.next
+
         
         
 
