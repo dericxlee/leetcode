@@ -9,19 +9,14 @@ class Solution:
         prev = dummy
 
         for _ in range(left - 1):
-            head = head.next
             prev = prev.next
         
-        current = prev.next
+        curr = prev.next
 
         for _ in range(right - left):
-            next_node = current.next
-            current.next = next_node.next
+            next_node = curr.next
+            curr.next = next_node.next
             next_node.next = prev.next
             prev.next = next_node
         
         return dummy.next
-            
-
-
-            
